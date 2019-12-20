@@ -1,0 +1,19 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "- Need to monitor something - Slack is not really good since it depends on workspace - Telegram is more common",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhnguyennguyen/telegrambot.git"
+  },
+  "author": "Nguyen Nguyen (nguyenbk92@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhnguyennguyen/telegrambot/issues"
+  },
+  "homepage": "https://github.com/thanhnguyennguyen/telegrambot#readme"
+}
